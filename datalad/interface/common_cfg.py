@@ -97,6 +97,13 @@ definitions = {
                'title': 'Binary flag to specify whether each annex repository should get datalad special remote in every test repository'}),
         'type': EnsureBool(),
     },
+    'datalad.tests.interpolatemessage': {
+        'ui': ('yesno', {
+            'title': 'Binary flag to specify if get_status_dict should interpolate '
+                     'provided message as a test'}),
+        'default': False,
+        'type': EnsureBool(),
+    },
     'datalad.tests.runcmdline': {
         'ui': ('yesno', {
                'title': 'Binary flag to specify if shell testing using shunit2 to be carried out'}),

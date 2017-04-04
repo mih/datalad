@@ -18,7 +18,10 @@ from os.path import join as opj
 from os.path import relpath
 from datalad.utils import assure_list
 from datalad.distribution.dataset import Dataset
-
+from datalad import cfg
+# yoh is bedazzeled why DATALAD_TESTS_INTERPOLATEMESSAGE=1  env var
+# is not in effect for nosetests run locally!  os.environ looks really sanitized while in our process!!!
+_test_interpolate_message = cfg.obtain('datalad.tests.interpolatemessage')
 
 lgr = logging.getLogger('datalad.interface.results')
 
@@ -45,6 +48,9 @@ def get_status_dict(action=None, ds=None, path=None, type_=None, logger=None,
         d['status'] = status
     if message:
         d['message'] = message
+        if _test_interpolate_message and isinstance(message, (int, list)):
+            # smoke test
+            message[0] % message[1:]
     return d
 
 
