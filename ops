@@ -1,0 +1,1 @@
+{"version":1,"ops":[{"type":1,"author":{"id":"bfb0c87a087f143d5d4fb3c3b303347e581f98d0"},"timestamp":1428720232,"metadata":{"github-id":"MDU6SXNzdWU2NzcyMzU3NQ==","github-url":"https://github.com/datalad/datalad/issues/106","origin":"github"},"title":"build git-annex-standalone Debian package to be made available across all (Neuro)Debian releases","message":"","files":null}]}
