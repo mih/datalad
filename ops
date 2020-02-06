@@ -1,0 +1,1 @@
+{"version":1,"ops":[{"type":1,"author":{"id":"bfb0c87a087f143d5d4fb3c3b303347e581f98d0"},"timestamp":1459520191,"metadata":{"github-id":"MDU6SXNzdWUxNDUxOTI2NTU=","github-url":"https://github.com/datalad/datalad/issues/392","origin":"github"},"title":"rename/move POC_ pieces under \"main namespace\"","message":"Or is there any which should remain there under POC?","files":null}]}
