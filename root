@@ -1,0 +1,1 @@
+{"version":1,"ops":[{"type":1,"author":{"id":"bfb0c87a087f143d5d4fb3c3b303347e581f98d0"},"timestamp":1426169184,"metadata":{"github-id":"MDU6SXNzdWU2MDgyMzU3OA==","github-url":"https://github.com/datalad/datalad/issues/59","origin":"github"},"title":"BUG: os.link is N/A on windows","message":"Initial use was to link load from incoming to public repositories...","files":null}]}
