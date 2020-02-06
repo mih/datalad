@@ -1,0 +1,1 @@
+{"version":1,"ops":[{"type":1,"author":{"id":"816bf70b9baa074da1d4906a6557da28f95f7ac5"},"timestamp":1438025660,"metadata":{"github-id":"MDU6SXNzdWU5NzUzODk1Ng==","github-url":"https://github.com/datalad/datalad/issues/179","origin":"github"},"title":"version is out of date, no?","message":"**version** in datalad/version.py, though the newest tag is 0.0.2","files":null}]}
