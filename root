@@ -1,0 +1,1 @@
+{"version":1,"ops":[{"type":1,"author":{"id":"bfb0c87a087f143d5d4fb3c3b303347e581f98d0"},"timestamp":1418005549,"metadata":{"github-id":"MDU6SXNzdWU1MTI0MjQ2OQ==","github-url":"https://github.com/datalad/datalad/issues/27","origin":"github"},"title":"give newly created repositories non-default identifier","message":"now it is USER@HOST:PATH","files":null}]}
