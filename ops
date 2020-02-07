@@ -1,0 +1,1 @@
+{"version":1,"ops":[{"type":1,"author":{"id":"fd812b33c3e7a5774088ec10aebfd9c1eba3a976"},"timestamp":1470062226,"metadata":{"github-id":"MDU6SXNzdWUxNjg2NjE0NDU=","github-url":"https://github.com/datalad/datalad/issues/679","origin":"github"},"title":"datalad crawl-init needs a better error msg whenever called without any argument","message":"","files":null}]}
