@@ -1,0 +1,1 @@
+{"version":1,"ops":[{"type":1,"author":{"id":"cf7a0bdf96b5195bf3052274368f463c7410f7a8"},"timestamp":1571562275,"metadata":{"github-id":"MDU6SXNzdWU1MDk1NjY5Nzg=","github-url":"https://github.com/datalad/datalad/issues/3810","origin":"github"},"title":"Remove GitRepo._get_files_history()","message":"Only used in a single spot on `get()` and broken on windows.","files":null}]}
