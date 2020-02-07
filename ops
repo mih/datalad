@@ -1,1 +1,1 @@
-{"version":1,"ops":[{"type":1,"author":{"id":"cf7a0bdf96b5195bf3052274368f463c7410f7a8"},"timestamp":1523948674,"metadata":{"github-id":"MDU6SXNzdWUzMTQ5MzA2MzI=","github-url":"https://github.com/datalad/datalad/issues/2425","origin":"github"},"title":"create-sibling should be able to produce a bare remote repo","message":"nt","files":null}]}
+{"version":1,"ops":[{"type":5,"author":{"id":"cf7a0bdf96b5195bf3052274368f463c7410f7a8"},"timestamp":1523948674,"metadata":{"github-id":"MDEyOkxhYmVsZWRFdmVudDE1NzgwMjA2NTU="},"added":["severity-wishlist"],"removed":[]}]}
