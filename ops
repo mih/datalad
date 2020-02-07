@@ -1,1 +1,1 @@
-{"version":1,"ops":[{"type":1,"author":{"id":"cf7a0bdf96b5195bf3052274368f463c7410f7a8"},"timestamp":1473332830,"metadata":{"github-id":"MDU6SXNzdWUxNzU3MjYwNTU=","github-url":"https://github.com/datalad/datalad/issues/767","origin":"github"},"title":"Remove `add_to_super` functionality in `create` once #752 has been dealt with","message":"","files":null}]}
+{"version":1,"ops":[{"type":4,"author":{"id":"cf7a0bdf96b5195bf3052274368f463c7410f7a8"},"timestamp":1473774760,"metadata":{"github-id":"MDExOkNsb3NlZEV2ZW50Nzg3NTc1ODUw"},"status":2}]}
