@@ -1,0 +1,1 @@
+{"version":1,"ops":[{"type":1,"author":{"id":"bfb0c87a087f143d5d4fb3c3b303347e581f98d0"},"timestamp":1464102992,"metadata":{"github-id":"MDU6SXNzdWUxNTY1MzQ4NjI=","github-url":"https://github.com/datalad/datalad/issues/472","origin":"github"},"title":"helper to automate commits for the datasets (including super-datasets and its \"children\")","message":"","files":null}]}
