@@ -1,1 +1,1 @@
-{"version":1,"ops":[{"type":1,"author":{"id":"bfb0c87a087f143d5d4fb3c3b303347e581f98d0"},"timestamp":1476160855,"metadata":{"github-id":"MDU6SXNzdWUxODIxNzI0MzM=","github-url":"https://github.com/datalad/datalad/issues/989","origin":"github"},"title":"breadcrumbs need the same aliasing datasets.datalad.org -\u003e //","message":"","files":null}]}
+{"version":1,"ops":[{"type":5,"author":{"id":"bfb0c87a087f143d5d4fb3c3b303347e581f98d0"},"timestamp":1476160855,"metadata":{"github-id":"MDEyOkxhYmVsZWRFdmVudDgxODk0MTQ1MQ=="},"added":["web-interface"],"removed":[]}]}
