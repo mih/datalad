@@ -1,0 +1,1 @@
+{"version":1,"ops":[{"type":1,"author":{"id":"cf7a0bdf96b5195bf3052274368f463c7410f7a8"},"timestamp":1495195782,"metadata":{"github-id":"MDU6SXNzdWUyMjk5NTYxMjk=","github-url":"https://github.com/datalad/datalad/issues/1527","origin":"github"},"title":"Should `save -u` be the default mode, and the only alternative to giving path(s) explicitly?","message":"","files":null}]}
