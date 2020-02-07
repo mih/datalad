@@ -1,0 +1,1 @@
+{"version":1,"ops":[{"type":1,"author":{"id":"cf7a0bdf96b5195bf3052274368f463c7410f7a8"},"timestamp":1487067448,"metadata":{"github-id":"MDU6SXNzdWUyMDc0NzMwMTE=","github-url":"https://github.com/datalad/datalad/issues/1291","origin":"github"},"title":"Let it be OK to call GitRepo.commit() when there is nothing to commit","message":"See  #1289 for the story.","files":null}]}
