@@ -74,6 +74,9 @@ def run_main(args, exit_code=0, expect_stderr=False):
         # a dedicated handle
         fakeout = StringIO()
         fakeerr = StringIO()
+        # we need to access the UI instance in order to actually instantiate
+        # it -- before we can patch its internals
+        datalad.ui.ui.ui
         with patch('sys.stderr', new=fakeerr) as cmerr, \
              patch('sys.stdout', new=fakeout) as cmout, \
              patch.object(datalad.ui.ui._ui, 'out', new=fakeout):
